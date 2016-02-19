@@ -1,0 +1,243 @@
+<?php /*%%SmartyHeaderCode:590156aa3d9ceeb7b9-81649959%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+$_valid = $_smarty_tpl->decodeProperties(array (
+  'file_dependency' => 
+  array (
+    'e2a301643cb5e894b269891850c140467056abc0' => 
+    array (
+      0 => 'F:/cwyuan/cwy/Admin/View\\Index\\left.html',
+      1 => 1453991559,
+      2 => 'file',
+    ),
+  ),
+  'nocache_hash' => '590156aa3d9ceeb7b9-81649959',
+  'has_nocache_code' => false,
+  'version' => 'Smarty-3.1.6',
+  'unifunc' => 'content_56aa3d9d45ae1',
+  'cache_lifetime' => 3600,
+),true); /*/%%SmartyHeaderCode%%*/?>
+<?php if ($_valid && !is_callable('content_56aa3d9d45ae1')) {function content_56aa3d9d45ae1($_smarty_tpl) {?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title> 
+<script language="JavaScript" charset="utf-8" type="text/javascript"
+	src="/cwy/Admin/Public/js/left.js"></script>
+<style type="text/css">
+body {
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+.cl {
+    clear: both;
+}
+
+.left {
+    width: 177px;
+}
+
+.left .top {
+    height: 26px;
+    background: url(/cwy/Admin/Public/images/main_21.gif) no-repeat;
+}
+
+.left .nav {
+    height: 72px;
+    background: url(/cwy/Admin/Public/images/main_23.gif) repeat-x;
+    padding-top: 8px;
+    margin-right: 1px;
+}
+
+.left .nav li {
+    float: left;
+    width: 58px;
+    text-align: center;
+}
+
+.left .nav li img {
+    border: 0;
+    cursor: pointer;
+}
+
+.left .nav li a {
+    line-height: 230%;
+}
+
+.left .line {
+    height: 4px !important;
+    background: url(/cwy/Admin/Public/images/main_38.gif)
+}
+
+.STYLE2 {
+    color: #43860c;
+    font-size: 12px;
+}
+
+a:link {
+    font-size: 12px;
+    text-decoration: none;
+    color: #43860c;
+}
+
+a:visited {
+    font-size: 12px;
+    text-decoration: none;
+    color: #43860c;
+}
+
+a:hover {
+    font-size: 12px;
+    text-decoration: none;
+    color: #FF0000;
+}
+
+.tree {
+    padding-left: 10px;
+    float: left;
+}
+
+.tree h2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #43860c;
+    padding-left: 18px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.tree h2.sys {
+    background: url(/cwy/Admin/Public/images/icon_sys.gif) no-repeat;
+}
+
+.tree h2.mod {
+    background: url(/cwy/Admin/Public/images/icon_mod.gif) no-repeat;
+}
+
+.tree h2.mem {
+    background: url(/cwy/Admin/Public/images/icon_mem.gif) no-repeat;
+}
+
+.tree ul {
+    padding: 0;
+    margin: 5px 0 0 0;
+}
+
+.tree ul li {
+    height: 18px;
+    line-height: 18px;
+    float: left;
+    width: 144px;
+    background: url(/cwy/Admin/Public/images/elbow.gif) no-repeat;
+    padding-left: 18px;
+}
+
+.tree ul li.end {
+    background: url(/cwy/Admin/Public/images/elbow-end.gif) no-repeat;
+}
+
+.tree ul li a {
+    background: url(/cwy/Admin/Public/images/a.gif) no-repeat;
+    padding-left: 16px;
+    color: #333;
+}
+
+.tree ul li a:hover {
+    color: #FF0000;
+}
+</style>
+<script type="text/JavaScript">
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() {  //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if (( x=MM_findObj(a[i]))!=null){ document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2]; }
+}
+
+</script>
+
+</head>
+<body
+	onload="expandIt(1),MM_preloadImages('/cwy/Admin/Public/images/main_26_1.gif','/cwy/Admin/Public/images/main_29_1.gif','/cwy/Admin/Public/images/main_31_1.gif')">
+	<div class="left">
+		<div class="top"></div>
+		<div class="nav">
+			<li><div align="center" onclick=expandIt(1)>
+					<img src="/cwy/Admin/Public/images/main_26.gif" name="Image1"
+						width="40" height="40" border="0" id="Image1"
+						onmouseover="MM_swapImage('Image1','','/cwy/Admin/Public/images/main_26_1.gif',1)"
+						onmouseout="MM_swapImgRestore()" /><br />
+					<a href="#">系统设置</a>
+				</div></li>
+			<li><div align="center" onclick=expandIt(2)>
+					<img src="/cwy/Admin/Public/images/main_28.gif" name="Image2"
+						width="40" height="40" border="0" id="Image2"
+						onmouseover="MM_swapImage('Image2','','/cwy/Admin/Public/images/main_29_1.gif',1)"
+						onmouseout="MM_swapImgRestore()" /><br />
+					<a href="#">模块管理</a>
+				</div></li>
+			<li><div align="center" onclick=expandIt(3)>
+					<img src="/cwy/Admin/Public/images/main_31.gif" name="Image3"
+						width="40" height="40" border="0" id="Image3"
+						onmouseover="MM_swapImage('Image3','','/cwy/Admin/Public/images/main_31_1.gif',1)"
+						onmouseout="MM_swapImgRestore()" /><br />
+					<a href="#">用户管理</a>
+				</div></li>
+		</div>
+		<div class="line">&nbsp;</div>
+		<div class="tree" id="sub1" style="display: none">
+			<h2 class="sys">系统设置</h2>
+			<ul>
+				<li><a href="/cwy/index.php/admin/Maifo/maifo" target="I1">基本设置</a></li>
+				<li><a href="/cwy/index.php/admin/Ads/ads" target="I1">广告管理</a></li>
+				<li><a href="/cwy/index.php/admin/Word/word" target="I1">词语过滤</a></li>
+				<li class="end"><a href="/cwy/index.php/admin/GuanLi/GuanLi" target="I1">管理员密码</a></li>
+
+			</ul>
+		</div>
+		<div class="tree" id="sub2" style="display: none">
+			<h2 class="mod">模块管理</h2>
+			<ul>
+				
+				<li><a href="/cwy/index.php/admin/Article/showlist" target="I1">文章管理</a></li>
+				<li><a href="/cwy/index.php/admin/Message/message" target="I1">评论管理</a></li>
+				<li><a href="/cwy/index.php/admin/Album/album" target="I1">相片管理</a></li>
+				<li><a href="/cwy/index.php/admin/news/showlist" target="I1">新闻管理</a></li>
+				<li class="end"><a href="/cwy/index.php/admin/Link/link" target="I1">友情链接</a></li>
+			</ul>
+		</div>
+		<div class="tree" id="sub3" style="display: none">
+			<h2 class="mem">会员管理</h2>
+			<ul>
+				<li><a href="/cwy/index.php/admin/User/showlist" target="I1">会员列表</a></li>
+				<li><a href="/cwy/index.php/admin/avatar/avatar" target="I1">会员头像</a></li>
+
+
+			</ul>
+		</div>
+
+	</div>
+</body>
+</html><?php }} ?>

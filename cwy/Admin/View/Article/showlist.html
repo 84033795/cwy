@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<script type="text/javaScript"
+	src="{$smarty.const.ADMIN_JS_URL}jquery.min.js"></script>
+<script language="JavaScript" src="{$smarty.const.ADMIN_JS_URL}css.js"></script>
+<script language="JavaScript"
+	src="{$smarty.const.ADMIN_JS_URL}common.js"></script>
+<link href="{$smarty.const.ADMIN_CSS_URL}admin.css" rel="stylesheet"
+	type="text/css" />
+</head>
+
+<body>
+	<table class="tab" border="0" align="center" cellpadding="0"
+		cellspacing="0">
+		<tr>
+			<td class="left"><img
+				src="{$smarty.const.ADMIN_IMG_URL}tab_03.gif" width="15" height="30" /></td>
+			<td class="center">
+				<p class="position">
+					<span>模块管理</span>文章管理
+				</p>
+				<table border="0" cellpadding="0" cellspacing="1" class="table_form">
+					<form name="myform" action="{$smarty.const.__CONTROLLER__}/search" method="get">
+						<tr class="sub_nav">
+							<td class="align_r"><select name="field"><option
+										value="title">标题</option>
+									
+									<option value="author_id">用户ID</option></select></td>
+							<td class="align_l"><input name="keyword" value=""
+								type="text" /> <input type="submit" id="submit" 
+								value="搜索" /></td>
+						</tr>
+					</form>
+				</table>
+				<table border="0" cellpadding="0" cellspacing="1" class="table_list">
+					<form name="myform2" action="{$smarty.const.__CONTROLLER__}/del_stu" method="post">
+						<caption>文章列表</caption>
+						<tr>
+							<th>选择</th>
+							<th>用户ID</th>
+							<th>标题</th>
+							<th>内容</th>
+							<th>时间</th>
+							<th>状态</th>
+						</tr>
+						{foreach $info as $k=>$v}
+						<volist name="list" id="qy">
+						<tr>
+						    
+							<td class=""><input type="checkbox" name="article_id[]"
+								value="{$v.article_id}"/></td>
+							<td>{$v.author_id}</td>
+							<td><a href="{$smarty.const.__CONTROLLER__}/detail/id/{$v.article_id}">{$v.title}</a></td>
+							<td><a href="{$smarty.const.__CONTROLLER__}/detail/id/{$v.article_id}"
+								target="_self">{$v.content}</a></td>
+							<td>{$v.dateline|date_format:"%y-%m-%d %I:%M:%S"}</td>
+							<td><eq name="qy.stat" value="1"> {if $v.status==1} <font
+									color="green">已审核</font> {else}<font color="red">未审核</font></eq></td> {/if}
+						
+						</tr>
+						</volist>
+						{/foreach}
+						<tr>
+							<td style="padding-left:28px"><input  type="checkbox"
+								id="chkall" onClick="checkall(this.form)" style="border: 0;"
+								value="check">全选</td>
+							<td class="" colspan="1"><input type="submit" name="submit"
+								 value="删除" onClick="#"
+								class="button_style" />&nbsp;&nbsp;
+								 <input type="submit" name="submit" value="批量审核"
+								onClick="#" class="button_style" /> </td>
+								<td class="align_left" colspan="4">{$pagelist}</td>
+						</tr>
+					</form>
+					
+				</table>
+			</td>
+			<td class="right"><img
+				src="{$smarty.const.ADMIN_IMG_URL}tab_07.gif" width="14" height="30" /></td>
+		</tr>
+		<tr>
+			<td height="29"><img
+				src="{$smarty.const.ADMIN_IMG_URL}tab_20.gif" width="14" height="29" /></td>
+			<td background="{$smarty.const.ADMIN_IMG_URL}tab_21.gif"></td>
+			<td><img src="{$smarty.const.ADMIN_IMG_URL}tab_22.gif"
+				width="14" height="29" /></td>
+		</tr>
+	</table>
+</body>
+</html>

@@ -1,0 +1,186 @@
+[ 2016-01-23T15:29:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/diary.html
+ERR: 非法操作:diary
+
+[ 2016-01-23T15:31:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/diary.html
+ERR: 非法操作:diary
+
+[ 2016-01-23T15:34:09+08:00 ] 127.0.0.1 /cwy/index.php/AdminArticle/showlist
+ERR: 无法加载控制器:AdminArticle
+
+[ 2016-01-23T15:34:19+08:00 ] 127.0.0.1 /cwy/index.php/AdminArticle/showlist
+ERR: 无法加载控制器:AdminArticle
+
+[ 2016-01-23T15:36:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 42 "&lt;td&gt;{:nickname($qy['uid'],0)}&lt;/td&gt;"  - Unexpected ":"
+
+[ 2016-01-23T15:37:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 43 "&lt;td&gt;&lt;a href=&quot;__URL__/diary/cat/{$qy.cateid}&quot;&gt;{:catname($qy['cateid'])}&lt;/a&gt;&lt;/td&gt;"  - Unexpected ":"
+
+[ 2016-01-23T15:38:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-01-23T15:38:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:38:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:38:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:40:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:40:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:40:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:44:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__URL__/deldiary
+ERR: 非法操作:__URL__
+
+[ 2016-01-23T15:46:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:46:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:46:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:46:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:50:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:50:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:50:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:52:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:53:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:53:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:53:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T15:53:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T15:59:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/__ROOT__/
+ERR: 非法操作:__ROOT__
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-01-23T16:00:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/__ROOT__/
+ERR: 非法操作:__ROOT__
+
+[ 2016-01-23T16:03:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/__ROOT__/
+ERR: 非法操作:__ROOT__
+
+[ 2016-01-23T16:03:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-01-23T16:03:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:03:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/__ROOT__/
+ERR: 非法操作:__ROOT__
+
+[ 2016-01-23T16:03:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/css/admin.css
+ERR: 非法操作:css
+
+[ 2016-01-23T16:05:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:06:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:08:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:09:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:10:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:12:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-23T16:13:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-23T16:13:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+

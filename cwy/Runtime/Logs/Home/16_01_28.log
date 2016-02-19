@@ -1,0 +1,3 @@
+[ 2016-01-28T23:46:49+08:00 ] 127.0.0.1 /cwy/index.php/Home/Video/tianjia
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cwyuan.cw_video' doesn't exist
+

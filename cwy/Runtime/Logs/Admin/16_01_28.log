@@ -1,0 +1,369 @@
+[ 2016-01-28T01:50:25+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T01:51:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-28T01:51:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T02:23:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/showlist
+ERR: 无法加载控制器:News
+
+[ 2016-01-28T02:24:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/showlist
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cwyuan.cw_video' doesn't exist
+
+[ 2016-01-28T02:25:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T02:42:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T08:58:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T08:59:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T09:57:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: 非法操作:tianjia
+
+[ 2016-01-28T09:57:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: 非法操作:tianjia
+
+[ 2016-01-28T10:00:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/News/tianjia.html
+
+[ 2016-01-28T10:05:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/News/tianjia.html
+
+[ 2016-01-28T10:11:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/del_stu
+ERR: 非法操作:del_stu
+
+[ 2016-01-28T10:11:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/del_stu
+ERR: 非法操作:del_stu
+
+[ 2016-01-28T10:36:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-28T10:44:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-28T10:56:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\News\tianjia.html"  on line 66 "&lt;td &gt;{$qy.addtime|date='Y-m-d H:i:s',###}&lt;/td&gt;"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2016-01-28T10:57:13+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\News\tianjia.html"  on line 66 "&lt;td &gt;{$qy.addtime|date='Y-m-d H:i:s',###}&lt;/td&gt;"  - Unexpected "=", expected one of: "}" , " "
+
+[ 2016-01-28T10:57:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__PUBLIC__/Js/jquery.min.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-01-28T10:57:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__PUBLIC__/Admin/css/admin.css
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-01-28T10:57:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__PUBLIC__/Js/editor/kindeditor.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-01-28T10:57:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__PUBLIC__/Js/css.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2016-01-28T11:05:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/addannounce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:15:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:17:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/__URL__/addannounce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:19:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:20:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/news/__CONSTROLLER__/tianjia
+ERR: 非法操作:__CONSTROLLER__
+
+[ 2016-01-28T11:20:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:21:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:22:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:22:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/announce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:22:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/addannounce
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T11:23:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__CONSTROLLER__/tianjia
+ERR: 非法操作:__CONSTROLLER__
+
+[ 2016-01-28T11:23:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__CONSTROLLER__/tianjia
+ERR: 非法操作:__CONSTROLLER__
+
+[ 2016-01-28T11:45:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/detail
+ERR: 非法操作:detail
+
+[ 2016-01-28T11:48:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/links.html
+ERR: 非法操作:links
+
+[ 2016-01-28T11:53:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/detail
+ERR: 非法操作:detail
+
+[ 2016-01-28T13:41:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/search?field=title&keyword=%E4%BA%8C%E4%BA%8C
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'having clause'
+
+[ 2016-01-28T14:37:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/detail
+ERR: 非法操作:detail
+
+[ 2016-01-28T14:39:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/__URL__/delan
+ERR: 非法操作:__URL__
+
+[ 2016-01-28T15:33:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/tianjia
+ERR: SQLSTATE[22007]: Invalid datetime format: 1292 Incorrect datetime value: '1453966380' for column 'pubtime' at row 1
+
+[ 2016-01-28T15:43:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/detail
+ERR: 非法操作:detail
+
+[ 2016-01-28T16:13:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/update
+ERR: 非法操作:update
+
+[ 2016-01-28T16:58:17+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/update/id/3
+ERR: 非法操作:update
+
+[ 2016-01-28T17:18:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/News/update/id/3
+ERR: 非法操作:update
+
+[ 2016-01-28T18:04:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-28T18:04:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-28T18:04:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-28T18:06:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-28T18:07:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/links.html
+ERR: 非法操作:links
+
+[ 2016-01-28T18:07:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-28T18:13:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-28T18:18:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-28T18:18:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-28T18:20:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-28T20:16:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-28T21:44:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-28T21:44:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/editpw.html
+ERR: 非法操作:editpw
+
+[ 2016-01-28T21:44:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-28T21:44:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/ads
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/Ads/ads.html
+
+[ 2016-01-28T21:44:47+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Word/word
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/Word/word.html
+
+[ 2016-01-28T21:45:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/ads
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/Ads/ads.html
+
+[ 2016-01-28T21:45:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Word/word
+ERR: 模板不存在:F:/cwyuan/cwy/Admin/View/Word/word.html
+
+[ 2016-01-28T21:47:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:47:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:47:57+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/editpw.html
+ERR: 非法操作:editpw
+
+[ 2016-01-28T21:47:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-28T21:48:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:48:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:49:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:49:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:58:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-28T21:58:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:58:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:58:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:58:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T21:58:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Manager/manager
+ERR: 非法操作:manager
+
+[ 2016-01-28T22:00:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T22:03:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/showlist
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'user_id' in 'order clause'
+
+[ 2016-01-28T22:04:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:04:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:04:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:09:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Link/link
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cwyuan.cw_link' doesn't exist
+
+[ 2016-01-28T22:10:56+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Link/link
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'link_id' in 'order clause'
+
+[ 2016-01-28T22:13:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:13:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:13:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:15:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Link/link
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'link_id' in 'order clause'
+
+[ 2016-01-28T22:19:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T22:19:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T22:20:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T22:20:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T22:31:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Index\left.html"  on line 209 "&lt;li&gt;&lt;a href=&quot;{$smarty.cont.__MODULE__}/Message/message&quot; target=&quot;I1&quot;&gt;评论管理&lt;/a&gt;&lt;/li&gt;" $smarty.cont is invalid
+
+[ 2016-01-28T22:31:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/left.html
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Index\left.html"  on line 209 "&lt;li&gt;&lt;a href=&quot;{$smarty.cont.__MODULE__}/Message/message&quot; target=&quot;I1&quot;&gt;评论管理&lt;/a&gt;&lt;/li&gt;" $smarty.cont is invalid
+
+[ 2016-01-28T22:33:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Message/message
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cwyuan.cw_message' doesn't exist
+
+[ 2016-01-28T22:38:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:38:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:38:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:40:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:40:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:40:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:40:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:40:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:40:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:40:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:40:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:40:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:41:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:41:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T22:41:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:41:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-28T22:41:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-28T22:41:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-28T23:57:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:57:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:40+08:00 ] 127.0.0.1 /cwy/index.php/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:40+08:00 ] 127.0.0.1 /cwy/index.php/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:46+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:49+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-28T23:59:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+

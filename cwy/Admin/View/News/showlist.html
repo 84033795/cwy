@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>无标题文档</title>
+<script type="text/javaScript"
+    src="{$smarty.const.ADMIN_JS_URL}jquery.min.js"></script>
+<script language="JavaScript" src="{$smarty.const.ADMIN_JS_URL}css.js"></script>
+<script language="JavaScript"
+    src="{$smarty.const.ADMIN_JS_URL}common.js"></script>
+<link href="{$smarty.const.ADMIN_CSS_URL}admin.css" rel="stylesheet"
+    type="text/css" />
+</head>
+
+<body>
+    <table class="tab" border="0" align="center" cellpadding="0"
+        cellspacing="0">
+        <tr>
+            <td class="left"><img
+                src="{$smarty.const.ADMIN_IMG_URL}tab_03.gif" width="15" height="30" /></td>
+            <td class="center">
+                <p class="position">
+                    <span>模块管理</span>新闻管理
+                </p>
+                <table border="0" cellpadding="0" cellspacing="1" class="table_form">
+                    <div class="sub_nav">
+                    <ul>
+                        <li><a href="{$smarty.const.__CONTROLLER__}/showlist">新闻列表</a></li>
+                        <li><a href="{$smarty.const.__CONTROLLER__}/tianjia">添加新闻</a></li>
+                    </ul>
+                    <div class="cl"></div>
+                </table>
+                <table border="0" cellpadding="0" cellspacing="1" class="table_list">
+                    <form name="myform2" action="{$smarty.const.__CONTROLLER__}/del" method="post">
+                        <caption>新闻列表</caption>
+                        <tr>
+                            <th>选择</th>
+                            <th>标题</th>
+                            <th>内容</th>
+                            <th>时间</th>
+                            <th>来源</th>
+                            <th>访问次数</th>
+                            <th>评论次数</th>
+                            <th>操作</th>
+                        </tr>
+                        
+                        <volist name="list" id="qy">
+                        {foreach $info as $k=>$v}
+                        <tr>
+                            <td class=""><input type="checkbox" name="id[]"
+                                value="{$v.id}"/></td>
+                            <td>{$v.title}</td>
+                            <td>{$v.content}</a></td>
+                            <td>{$v.pubtime|date_format:"%y-%m-%d %I:%M:%S"}</a></td>
+                            <td>{$v.source}</td>
+                            <td>{$v.readtimes}</td> 
+                            <td>{$v.commenttimes}</td>
+                        <td>
+                        <a href="{$smarty.const.__CONTROLLER__}/detail/id/{$v.id}" class="button_style">详情</a>
+                        <a href="{$smarty.const.__CONTROLLER__}/update/id/{$v.id}" class="button_style">修改</a>
+                        </tr>
+                        {/foreach}
+                        </volist>
+                        
+                        <tr>
+                            <td style="padding-left:28px"><input  type="checkbox"
+                                id="chkall" onClick="checkall(this.form)" style="border: 0;"
+                                value="check">全选</td>
+                            <td class="align_2" ><input type="submit"
+                                 value="批量删除" onClick="#"
+                                class="button_style" />
+                        <td colspan="7">{$pagelist}</td>
+                        </tr>
+                    </form>
+                    
+                </table>
+            </td>
+            <td class="right"><img
+                src="{$smarty.const.ADMIN_IMG_URL}tab_07.gif" width="14" height="30" /></td>
+        </tr>
+        <tr>
+            <td height="29"><img
+                src="{$smarty.const.ADMIN_IMG_URL}tab_20.gif" width="14" height="29" /></td>
+            <td background="{$smarty.const.ADMIN_IMG_URL}tab_21.gif"></td>
+            <td><img src="{$smarty.const.ADMIN_IMG_URL}tab_22.gif"
+                width="14" height="29" /></td>
+        </tr>
+    </table>
+</body>
+</html>

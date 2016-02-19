@@ -1,0 +1,603 @@
+[ 2016-01-25T09:34:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-25T09:34:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:17+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T09:34:49+08:00 ] 127.0.0.1 /cwy/index.php/home'
+ERR: 无法加载控制器:Home'
+
+[ 2016-01-25T10:23:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:23:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:23:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:24:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:24:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:24:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:24:24+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__URL__/diary/cat/
+ERR: 非法操作:__URL__
+
+[ 2016-01-25T10:49:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__URL__/diary/cat/
+ERR: 非法操作:__URL__
+
+[ 2016-01-25T10:55:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:55:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:55:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T10:57:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:35:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__ROOT__/?s=Diary/show/id/.html
+ERR: 无法加载控制器:Diary
+
+[ 2016-01-25T11:36:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:33+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-25T11:36:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:35+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-25T11:36:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/album.html
+ERR: 非法操作:album
+
+[ 2016-01-25T11:36:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-25T11:36:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:36:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__ROOT__/?s=Diary/show/id/.html
+ERR: 无法加载控制器:Diary
+
+[ 2016-01-25T11:44:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__ROOT__/?s=Diary/show/id/.html
+ERR: 无法加载控制器:Diary
+
+[ 2016-01-25T11:45:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 54 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:45:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:45:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:45:58+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:47:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:47:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:47:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:47:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/atc_detail
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\atc_detail.html"  on line 44 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:48:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:48:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:48:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:48:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/atc_detail
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\atc_detail.html"  on line 44 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:48:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/atc_detail
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\atc_detail.html"  on line 44 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:49:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:49:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/atc_detail
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\atc_detail.html"  on line 44 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:49:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/atc_detail
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\atc_detail.html"  on line 44 "href=&quot;{$smarty.cinst.__SELF__}/atc_detail&quot; target=&quot;_self&quot;&gt;文章內容&lt;/a&gt;" $smarty.cinst is invalid
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:50:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:54+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:51:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:23+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:52:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:53:44+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T11:54:30+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:14:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:15:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:15:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:15:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:16+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:16:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:17:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:17:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:17:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:03+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:18:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:20:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:27:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:27:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:27:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:36:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cwyuan.cw_acticle' doesn't exist
+
+[ 2016-01-25T12:36:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 47 "{foreach $info $k=&gt;$v}"  - Unexpected "=>", expected one of: "}" , " "
+
+[ 2016-01-25T12:37:34+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 57 "&lt;td &gt;{$v.dateline |Y-h-d :h-m-s}&lt;/td&gt;"  - Unexpected "|"
+
+[ 2016-01-25T12:38:45+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 57 "&lt;td &gt;{$v.dateline |Y-m-d H:i:s}&lt;/td&gt;"  - Unexpected "|"
+
+[ 2016-01-25T12:44:24+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 57 "&lt;td &gt;{$v.dateline|date_format:%Y-%M-%D}&lt;/td&gt;"  - Unexpected "%"
+
+[ 2016-01-25T12:44:53+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: Syntax Error in template "F:/cwyuan/cwy/Admin/View\Article\showlist.html"  on line 57 "&lt;td &gt;{$v.dateline|date_format:%Y}&lt;/td&gt;"  - Unexpected "%"
+
+[ 2016-01-25T12:45:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:45:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:45:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:48:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:48:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:48:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T12:50:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:12:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:12:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:12:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:38+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/common.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:13:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T13:14:48+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/__URL__/diary
+ERR: 非法操作:__URL__
+
+[ 2016-01-25T13:24:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/showlist
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a.id=s.article_id' at line 1
+
+[ 2016-01-25T15:07:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del
+ERR: 非法操作:del
+
+[ 2016-01-25T15:20:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a WHERE `id` = '$ids'' at line 1
+
+[ 2016-01-25T15:20:39+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'a WHERE `id` IN ('6','7')' at line 1
+
+[ 2016-01-25T15:41:01+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/message.html
+ERR: 非法操作:message
+
+[ 2016-01-25T16:07:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-25T16:47:41+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/member.html
+ERR: 非法操作:member
+
+[ 2016-01-25T16:47:52+08:00 ] 127.0.0.1 /cwy/index.php/Article/%7B$smarty.const.__SELF__%7D.html
+ERR: 非法操作:{$smarty.const.__SELF__}
+
+[ 2016-01-25T16:48:59+08:00 ] 127.0.0.1 /cwy/index.php/Article/%7B$smarty.const.__SELF__%7D.html
+ERR: 非法操作:{$smarty.const.__SELF__}
+
+[ 2016-01-25T17:21:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del
+ERR: 非法操作:del
+
+[ 2016-01-25T17:38:07+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Index/config.html
+ERR: 非法操作:config
+
+[ 2016-01-25T18:25:52+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  )' at line 1
+
+[ 2016-01-25T18:37:00+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '38  )' at line 1
+
+[ 2016-01-25T18:38:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '38  )' at line 1
+
+[ 2016-01-25T18:38:37+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''38'  )' at line 1
+
+[ 2016-01-25T18:41:20+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''38'  )' at line 1
+
+[ 2016-01-25T18:43:19+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:44:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:44:10+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:45:43+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:46:09+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:46:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T18:47:22+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  )' at line 1
+
+[ 2016-01-25T18:54:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  )' at line 1
+
+[ 2016-01-25T18:55:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  )' at line 1
+
+[ 2016-01-25T18:55:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array  )' at line 1
+
+[ 2016-01-25T18:55:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Array'  )' at line 1
+
+[ 2016-01-25T18:56:14+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Array )' at line 1
+
+[ 2016-01-25T18:56:56+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'inArray )' at line 1
+
+[ 2016-01-25T20:08:29+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'in ) AND (  (  38 ) )' at line 1
+
+[ 2016-01-25T20:09:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'in ) AND (  1,2,3 )' at line 1
+
+[ 2016-01-25T20:13:21+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Article/del_stu
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+
+[ 2016-01-25T22:17:04+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-25T22:18:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Video/js/jquery.min.js
+ERR: 非法操作:js
+

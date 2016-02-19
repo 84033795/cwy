@@ -1,0 +1,186 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>无标题文档</title>
+    <script type="text/javaScript" src="{$smarty.const.ADMIN_JS_URL}jquery.min.js"></script>
+    <script language="JavaScript" src="{$smarty.const.ADMIN_JS_URL}css.js"></script>
+    <script language="JavaScript" src="{$smarty.const.ADMIN_JS_URL}common.js"></script>
+    <link href="{$smarty.const.ADMIN_CSS_URL}admin.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+    <table class="tab" border="0" align="center" cellpadding="0" cellspacing="0">
+        <tr>
+            <td class="left">
+                <img src="{$smarty.const.ADMIN_IMG_URL}tab_03.gif" width="15" height="30" />
+            </td>
+            <td class="center">
+                <p class="position"><span>网站管理</span>文章评论列表</p>
+                <if condition="strtolower(ACTION_NAME) eq message ">
+                    <table border="0" cellpadding="0" cellspacing="1" class="table_form">
+
+                        <tr class="sub_nav">
+                            <td class="align_l" width="400" style="float: left;">
+                                <a href="{$smarty.const.__CONTROLLER__}/message">
+                                    <input type="button" value="文章评论" />
+                                </a>
+
+                                <a href="{$smarty.const.__CONTROLLER__}/p_show">
+                                    <input type="button" value="相片评论" />
+                                </a>
+
+                                <a href="{$smarty.const.__CONTROLLER__}/v_show">
+                                    <input type="button" value="新闻评论" />
+                                </a>
+                            </td>
+                            <form name="myform" action="{$smarty.const.__CONTROLLER__}/a_chaxun" method="get">
+                                <td class="align_r" width="100">
+                                    <select name="field">
+                                        <option value="biaoti">标题</option>
+                                        <option value="mes_id">评论ID</option>
+                                    </select>
+                                </td>
+                                <td class="align_l">
+
+
+                                    <input name="keyword" value="" type="text" />
+                                    <input type="submit" name="submit" value="搜索" />
+                                </td>
+
+                        </tr>
+                        </form>
+                    </table>
+                    <table border="0" cellpadding="0" cellspacing="1" class="table_list">
+                        <form action="{$smarty.const.__CONTROLLER__}/a_del" method="post">
+                            <caption>站内信息列表</caption>
+                            <tr>
+                                <th width="100">编号</th>
+                                <th>发信者</th>
+                                <th>接收者</th>
+                                <th>标题</th>
+                                <th width="150">时间</th>
+                                <!-- <th width="100">状态</th> -->
+                                <th width="200">操作</th>
+                            </tr>
+
+                            {foreach $info as $k=>$v}
+                            <volist name="list" id="qy">
+
+                                <tr>
+                                    <td class="">
+                                        <input type="checkbox" name="mid[]" value="{$v.mes_id}" />
+                                        <!-- {$v@iteration}-- -->{$v.mes_id}
+
+                                    </td>
+                                    <td>
+                                        {$v.sender}
+                                    </td>
+                                    <td>
+
+                                        {$v.receiver}
+
+                                    </td>
+                                    <td class="align_l">
+                                        {$v.biaoti}
+                                    </td>
+                                    <td class="align_l">
+                                        {$v.shijian}
+                                    </td>
+                                    <!-- <td>
+                                       {if $v.zhuangtai==1} 
+                                           已读
+                                        {else}
+                                          未读
+
+                                       {/if}
+                                    </td> -->
+
+
+
+                                    <td>
+
+                                        <a href="{$smarty.const.__CONTROLLER__}/message/mes_id/{$v.mes_id}" onclick="">查询</a>
+                                        <a href="{$smarty.const.__CONTROLLER__}/a_del/mes_id/{$v.mes_id}">删除</a>
+
+
+
+                                    </td>
+                                </tr>
+
+
+                            </volist>
+                            {/foreach}
+
+                            <tr>
+                                <td class="">
+                                    <input name="chkall" type="checkbox" id="chkall" onClick="checkall(this.form)" value="check">全选</td>
+
+                                <td class="align_l" colspan="6">
+                                    <input type="submit" name="submit" onClick="document.myform2.action='{$smarty.const.__CONTROLLER__}/a_del'" value="批量删除" />
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="" colspan="7">
+                                    {$pagelist}
+                                </td>
+                            </tr>
+                        </form>
+                    </table>
+                    <else/>
+
+                    <table border="0" cellpadding="0" cellspacing="1" class="table_form">
+                        <tr class="sub_nav">
+
+                        </tr>
+
+                        <caption>详细信息</caption>
+                        <tr>
+                            <td width="10%">发信人：</td>
+                            <td width="10%" class="align_l">
+                                {$m.sender}
+                            </td>
+                            <td width="10%" class="align_r">收信人：</td>
+                            <td width="*" class="align_l">
+                                {$m.receiver}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>标题：</td>
+                            <td colspan="3" class="align_l">
+                                {$m.biaoti}
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>内容：</td>
+                            <td colspan="3" class="align_l">
+
+                                {$m.wenzhang}
+
+                            </td>
+                        </tr>
+
+
+                    </table>
+
+
+                </if>
+            </td>
+            <td class="right">
+                <img src="{$smarty.const.ADMIN_IMG_URL}tab_07.gif" width="14" height="30" />
+            </td>
+        </tr>
+        <tr>
+            <td height="29">
+                <img src="{$smarty.const.ADMIN_IMG_URL}tab_20.gif" width="14" height="29" />
+            </td>
+            <td background="{$smarty.const.ADMIN_IMG_URL}tab_21.gif"></td>
+            <td>
+                <img src="{$smarty.const.ADMIN_IMG_URL}tab_22.gif" width="14" height="29" />
+            </td>
+        </tr>
+    </table>
+</body>
+
+</html>

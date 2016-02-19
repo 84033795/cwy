@@ -1,0 +1,711 @@
+[ 2016-01-29T00:00:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T00:00:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T00:00:05+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T00:00:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T00:00:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T00:00:50+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T00:01:24+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/__URL__/delmember/uid/
+ERR: 非法操作:__URL__
+
+[ 2016-01-29T00:01:28+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/__URL__/delmember/uid/
+ERR: 非法操作:__URL__
+
+[ 2016-01-29T00:22:14+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:23:41+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:24:16+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:24:30+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:24:39+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:24:58+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:25:50+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:26:03+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:26:17+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:26:25+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:26:38+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:26:54+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:27:21+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:28:29+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:28:46+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:29:13+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:29:24+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:29:54+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:30:28+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:30:45+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:30:56+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:31:13+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:32:39+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:34:08+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:35:14+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:35:22+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:35:51+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:36:02+08:00 ] 127.0.0.1 /cwy/index.php/manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:45:10+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:47:20+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:47:22+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:47:37+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:48:18+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:48:29+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:48:44+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:49:52+08:00 ] 127.0.0.1 /cwy/index.php/admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T00:49:58+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:public_js_urlcommon.js
+
+[ 2016-01-29T00:49:58+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:public_js_urlcss.js
+
+[ 2016-01-29T00:49:58+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:public_js_urljquery.min.js
+
+[ 2016-01-29T00:50:27+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:public_js_urljquery.min.js
+
+[ 2016-01-29T00:50:27+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:public_js_urlcss.js
+
+[ 2016-01-29T00:50:27+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:public_js_urlcommon.js
+
+[ 2016-01-29T00:51:08+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:public_js_urljquery.min.js
+
+[ 2016-01-29T00:51:08+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:public_js_urlcommon.js
+
+[ 2016-01-29T00:51:08+08:00 ] 127.0.0.1 /cwy/index.php/admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:public_js_urlcss.js
+
+[ 2016-01-29T01:29:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:29:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:29:32+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:29:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:29:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:29:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:30:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:30:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:30:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:44:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:44:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:44:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:45:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:45:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:45:06+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:49:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:49:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:49:26+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:50:27+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T01:52:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:52:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:52:11+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:52:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T01:52:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:52:15+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:52:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T01:52:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T01:52:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T10:04:02+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:04:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:04:55+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:12+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:18+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:27+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:40+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:05:51+08:00 ] 127.0.0.1 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:06:02+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:09:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T10:09:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T10:09:36+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T10:09:59+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/__URL__/delmember/uid/
+ERR: 非法操作:__URL__
+
+[ 2016-01-29T10:10:31+08:00 ] 127.0.0.1 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_7.php
+ERR: 无法加载控制器:PIC_URLavatar_7.php
+
+[ 2016-01-29T10:15:40+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_8.php
+ERR: 无法加载控制器:PIC_URLavatar_8.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_11.php
+ERR: 无法加载控制器:PIC_URLavatar_11.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_13.php
+ERR: 无法加载控制器:PIC_URLavatar_13.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_12.php
+ERR: 无法加载控制器:PIC_URLavatar_12.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_14.php
+ERR: 无法加载控制器:PIC_URLavatar_14.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_15.php
+ERR: 无法加载控制器:PIC_URLavatar_15.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_16.php
+ERR: 无法加载控制器:PIC_URLavatar_16.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_10.php
+ERR: 无法加载控制器:PIC_URLavatar_10.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_17.php
+ERR: 无法加载控制器:PIC_URLavatar_17.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_9.php
+ERR: 无法加载控制器:PIC_URLavatar_9.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:15:41+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_7.php
+ERR: 无法加载控制器:PIC_URLavatar_7.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_8.php
+ERR: 无法加载控制器:PIC_URLavatar_8.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_9.php
+ERR: 无法加载控制器:PIC_URLavatar_9.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_11.php
+ERR: 无法加载控制器:PIC_URLavatar_11.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_12.php
+ERR: 无法加载控制器:PIC_URLavatar_12.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_13.php
+ERR: 无法加载控制器:PIC_URLavatar_13.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_14.php
+ERR: 无法加载控制器:PIC_URLavatar_14.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_10.php
+ERR: 无法加载控制器:PIC_URLavatar_10.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_15.php
+ERR: 无法加载控制器:PIC_URLavatar_15.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_16.php
+ERR: 无法加载控制器:PIC_URLavatar_16.php
+
+[ 2016-01-29T10:15:42+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_17.php
+ERR: 无法加载控制器:PIC_URLavatar_17.php
+
+[ 2016-01-29T10:21:27+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:29:17+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:39:12+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_7.php
+ERR: 无法加载控制器:PIC_URLavatar_7.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_8.php
+ERR: 无法加载控制器:PIC_URLavatar_8.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_9.php
+ERR: 无法加载控制器:PIC_URLavatar_9.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_11.php
+ERR: 无法加载控制器:PIC_URLavatar_11.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_12.php
+ERR: 无法加载控制器:PIC_URLavatar_12.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_13.php
+ERR: 无法加载控制器:PIC_URLavatar_13.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_10.php
+ERR: 无法加载控制器:PIC_URLavatar_10.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_15.php
+ERR: 无法加载控制器:PIC_URLavatar_15.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_17.php
+ERR: 无法加载控制器:PIC_URLavatar_17.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_16.php
+ERR: 无法加载控制器:PIC_URLavatar_16.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_14.php
+ERR: 无法加载控制器:PIC_URLavatar_14.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:39:13+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_8.php
+ERR: 无法加载控制器:PIC_URLavatar_8.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_9.php
+ERR: 无法加载控制器:PIC_URLavatar_9.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_11.php
+ERR: 无法加载控制器:PIC_URLavatar_11.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_12.php
+ERR: 无法加载控制器:PIC_URLavatar_12.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_10.php
+ERR: 无法加载控制器:PIC_URLavatar_10.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_13.php
+ERR: 无法加载控制器:PIC_URLavatar_13.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_7.php
+ERR: 无法加载控制器:PIC_URLavatar_7.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_17.php
+ERR: 无法加载控制器:PIC_URLavatar_17.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_15.php
+ERR: 无法加载控制器:PIC_URLavatar_15.php
+
+[ 2016-01-29T10:39:14+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_16.php
+ERR: 无法加载控制器:PIC_URLavatar_16.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_8.php
+ERR: 无法加载控制器:PIC_URLavatar_8.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_7.php
+ERR: 无法加载控制器:PIC_URLavatar_7.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_9.php
+ERR: 无法加载控制器:PIC_URLavatar_9.php
+
+[ 2016-01-29T10:44:28+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_11.php
+ERR: 无法加载控制器:PIC_URLavatar_11.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_10.php
+ERR: 无法加载控制器:PIC_URLavatar_10.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_12.php
+ERR: 无法加载控制器:PIC_URLavatar_12.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_13.php
+ERR: 无法加载控制器:PIC_URLavatar_13.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_14.php
+ERR: 无法加载控制器:PIC_URLavatar_14.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_15.php
+ERR: 无法加载控制器:PIC_URLavatar_15.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_16.php
+ERR: 无法加载控制器:PIC_URLavatar_16.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_17.php
+ERR: 无法加载控制器:PIC_URLavatar_17.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar.php
+ERR: 无法加载控制器:PIC_URLavatar.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_2.php
+ERR: 无法加载控制器:PIC_URLavatar_2.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_1.php
+ERR: 无法加载控制器:PIC_URLavatar_1.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_3.php
+ERR: 无法加载控制器:PIC_URLavatar_3.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_4.php
+ERR: 无法加载控制器:PIC_URLavatar_4.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_6.php
+ERR: 无法加载控制器:PIC_URLavatar_6.php
+
+[ 2016-01-29T10:44:29+08:00 ] 127.0.0.1 /cwy/index.php/PIC_URLavatar_5.php
+ERR: 无法加载控制器:PIC_URLavatar_5.php
+
+[ 2016-01-29T10:47:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T10:47:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T10:47:08+08:00 ] 127.0.0.1 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T11:31:01+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:06:55+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:15:41+08:00 ] 192.168.28.94 /cwyuan/cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:15:51+08:00 ] 192.168.28.94 /cwyuan/cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:23:40+08:00 ] 192.168.28.94 /cwyuan/cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:25:23+08:00 ] 192.168.28.94 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T12:30:28+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:05:54+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:10:02+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:11:30+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:21:13+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:22:00+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:23:32+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:23:53+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:24:22+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:24:22+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:24:59+08:00 ] 192.168.28.45 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:18+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:18+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:18+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:26+08:00 ] 192.168.28.45 /cwy/index.php/Maifo/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:26+08:00 ] 192.168.28.45 /cwy/index.php/Maifo/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:29+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:29+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:29+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:47+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:47+08:00 ] 192.168.28.45 /cwy/index.php/Admin/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:57+08:00 ] 192.168.28.45 /cwy/index.php/Ads/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:25:57+08:00 ] 192.168.28.45 /cwy/index.php/Ads/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:26:39+08:00 ] 192.168.28.45 /cwy/index.php/Admin/GuanLi/js/css.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:27:22+08:00 ] 192.168.28.78 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:29:22+08:00 ] 192.168.28.45 /cwy/index.php/Admin/User/PUBLIC_JS_URLjquery.min.js
+ERR: 非法操作:PUBLIC_JS_URLjquery.min.js
+
+[ 2016-01-29T13:29:22+08:00 ] 192.168.28.45 /cwy/index.php/Admin/User/PUBLIC_JS_URLcss.js
+ERR: 非法操作:PUBLIC_JS_URLcss.js
+
+[ 2016-01-29T13:29:22+08:00 ] 192.168.28.45 /cwy/index.php/Admin/User/PUBLIC_JS_URLcommon.js
+ERR: 非法操作:PUBLIC_JS_URLcommon.js
+
+[ 2016-01-29T13:50:44+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
+[ 2016-01-29T13:50:57+08:00 ] 127.0.0.1 /cwy/index.php/Manager/login.html
+ERR: SQLSTATE[42000] [1049] Unknown database 'cwyuan'
+
+[ 2016-01-29T13:51:42+08:00 ] 127.0.0.1 /cwy/index.php/Manager/js/thinkajax.js
+ERR: 非法操作:js
+
